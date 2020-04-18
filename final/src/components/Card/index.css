@@ -1,0 +1,33 @@
+.card {
+  background-color: #1C777A;
+  color:#FA976A;
+  box-shadow: 0 4px 6px 0 rgb(160, 89, 89);
+  max-width: 80%;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  padding: 2em;
+ 
+}
+body {
+  background-color: #16373D; 
+}
+
+p{
+color:white;
+
+}
+h3{
+  text-transform: uppercase;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img {
+  max-width:20%;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  border: 5px solid rgb(160, 89, 89);
+  border-style: inset;
+  border-radius: 4px;
+}
